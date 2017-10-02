@@ -1,0 +1,9 @@
+/home/suresh/spring-hibernate-example/src/main/java/com/shivapreals/MainApp.java
+/home/suresh/spring-hibernate-example/src/main/java/com/shivapreals/service/UserService.java
+/home/suresh/spring-hibernate-example/src/main/java/com/shivapreals/dao/UserDaoImp.java
+/home/suresh/spring-hibernate-example/src/main/java/com/shivapreals/config/AppConfig.java
+/home/suresh/spring-hibernate-example/src/main/java/com/shivapreals/dao/UserDao.java
+/home/suresh/spring-hibernate-example/src/main/java/com/shivapreals/entity/Item.java
+/home/suresh/spring-hibernate-example/src/main/java/com/shivapreals/dao/ItemDaoImpl.java
+/home/suresh/spring-hibernate-example/src/main/java/com/shivapreals/entity/User.java
+/home/suresh/spring-hibernate-example/src/main/java/com/shivapreals/service/UserServiceImp.java
